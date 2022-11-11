@@ -1,15 +1,15 @@
 - name: Brand Kit
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
+  link: https://gsep.daimler.com/confluence/download/attachments/530326839/PICAO_Brand-Kit.zip?version=2&modificationDate=1624612488000&api=v2
   description: Our PICAO brand as one small kit containing our brand guidelines, the logo and background visuals, and the area logos.
 
 - name: Program Introduction
-  link:
+  link: https://gsep.daimler.com/confluence/download/attachments/530326839/PICAO_Program_Briefing.pdf?version=1&modificationDate=1643009184000&api=v2
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
   description: A Powerpoint slide deck to present the PICAO story, the programme’s purpose and goals.
 
 - name: Powerpoint Template
-  link:
+  link: https://gsep.daimler.com/confluence/download/attachments/530326839/NEW_MB_PPTX_Template%20Februrary%202022.pptx?version=1&modificationDate=1645174591000&api=v2
   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
   description: If you want to create a presentation in the style of PICAO, this template is for you!
 
