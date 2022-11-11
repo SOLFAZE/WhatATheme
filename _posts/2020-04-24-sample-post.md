@@ -1,22 +1,8 @@
 ---
-title: Sample Post
+title: AREA ENERGY EFFICIENCY
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
-tags:
-- sample
-- post
-- test
----
-
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
-For more information about writing markdown you can checkout the following markdown cheatsheets:
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
-
----
+post-image: #"https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+description: Area Energy Efficiency provides verified consumption and emission data for the whole product life cycle to monitor and analyse our business. We provide the calculation and provision of verified consumption and emission data for offers/purchase contract creation, Certificate of Conformity (CoC) papers, and marketing content based on legal requirements. We combine and analyse data in the context of emission and consumption to monitor our business. We create early-stage emission calculation and provide tools to improve data in the area of emission and consumption.
 
 # This is the h1 text
 ## This is the h2 text
@@ -24,7 +10,7 @@ For more information about writing markdown you can checkout the following markd
 #### This is the h4 text
 ##### This is the h5 text
 ###### This is the h6 text
-
+---
 **Bold Text in the post will look like:**<br>
 **This text is Bold**
 
