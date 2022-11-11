@@ -3,8 +3,6 @@
 
 #### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
 
-![WhatATheme](assets/images/meta.jpg)
-
 # Features :sparkles:
 * Free and Easy setup
 * No Coding Required
