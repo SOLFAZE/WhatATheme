@@ -56,11 +56,6 @@ Epics in general are a container for a significant solution development initiati
 Product Epics
 One stage below the Portfolio Epics there are the Product Epics., which always are referring to one specific product in the program. The Product Epics are bridging the gap between the more generic defined Portfolio Epics and the more operative tasks done by the agile teams. Therefore, the Product Epics are a detailed description of a Portfolio Epic, corresponding to one product. Since the dashboard and the PICAO program is still transforming, not all of the Product Epics can be shown here. Furthermore the current Product Epics are being linked to the superordinate Portfolio Epics to get a more realistic and instantaneous view of the progress.
 
-Structure of the Strategic Theme
-
-Link: https://gsep.daimler.com/jira/secure/StructureBoard.jspa?p=717892662
-
-
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: #https://github.com/thedevslot
 
