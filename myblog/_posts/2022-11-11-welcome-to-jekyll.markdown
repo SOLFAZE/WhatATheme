@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Area Technical Data"
-date:   #2022-11-11 17:15:31 +0100
-categories: #jekyll update
+date:   2022-11-11 17:15:31 +0100
+categories: jekyll update
 ---
 # AREA TECHNICAL DATA
 Area Technical Data provides the single-source provisioning of descriptive technical data for every Mercedes vehicle to Marketing and Sales (MS), on time and trusted. Using E2E automation of data collection and efficient administration, we release and provision technical data for vehicle configurations from Certification and Research & Development (RD) to Marketing & Sales (MS), all the way to end customers and after-sales. We improve the speed, transparency, and reliability of technical data provisioning. We reduce costly and error-prone manual administration and link market configurations with technical data. Area Technical Data enhances the overall weight management process to comply with changing regulations and conditions and increases the market offerings. We provide single-source provisioning of the overall weight data from Research & Development (RD) to certification and Marketing & Sales (MS). We improving weight validation by offering a transparent overview based on the Bill of Material documentation. We secure the maximum weight of weight-critical car lines. We offer the calculation of individual vehicle weight based on equipment codes.
