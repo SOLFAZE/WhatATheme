@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: PICAO Dashboard
 # Description of the Site
-description: Fast & reliable end-to-end certification, driven by connected processes and data, empowering people to build and sell sustainable cars that customers love.
+description: The dashboard is intended to give you a quick overview about the PICAO Program Structure and the current progress. Starting off with the „General“ subpage in which the working structure of PICAO is described by using terms of the agile framework. These terms are defined for a better overall understanding and linked to the corresponding subpages for more detailed information.
 # URL of Image of the Site
 site-image: C:/Users/sfa/WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -46,15 +46,6 @@ author-name: TheDevsLot
 author-image: #https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
 author-about: The dashboard is intended to give you a quick overview about the PICAO Program Structure and the current progress. Starting off with the „General“ subpage in which the working structure of PICAO is described by using terms of the agile framework. These terms are defined for a better overall understanding and linked to the corresponding subpages for more detailed information.
-
-#Strategic Themes
-#The Strategic Themes provide an orientation, which reflect the strategic goal of the PICAO program. They are business objectives that are connecting a portfolio to the strategy of the enterprise. The ST influence portfolio strategy as well as portfolio decisions. In our case, there are 15 themes defined plus an additional “pot” for topics which could not be assigned to any of the given themes. These ST are defined and located in a JIRA project which is described in the next section.
-
-#Portfolio Epics
-#Epics in general are a container for a significant solution development initiative that captures the more substantial investments that occur within a portfolio. Additionally, Epics often require a definition of an MVP (Minimum Viable Product). In the PICAO Program the so called “Portfolio Epics” are established to a corresponding product, providing a defined scope and impact on an assigned ST. That is, multiple Portfolio Epics can be assigned to one ST. Currently there are more than 80 #Portfolio Epics in total in the PICAO Program which are located in a JIRA Project alongside with the ST. This project is called “PICAO Program” in JIRA and contains information like the description, any given dependencies or the progress of the Portfolio Epic providing an overall progress estimation of the ST.
-
-#Product Epics
-#One stage below the Portfolio Epics there are the Product Epics., which always are referring to one specific product in the program. The Product Epics are bridging the gap between the more generic defined Portfolio Epics and the more operative tasks done by the agile teams. Therefore, the Product Epics are a detailed description of a Portfolio Epic, corresponding to one product. Since the dashboard and the PICAO program is still transforming, not all of the Product Epics can be shown here. #Furthermore the current Product Epics are being linked to the superordinate Portfolio Epics to get a more realistic and instantaneous view of the progress.
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: #https://github.com/thedevslot
