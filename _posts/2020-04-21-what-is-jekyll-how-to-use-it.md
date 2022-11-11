@@ -1,12 +1,13 @@
 ---
 title: Area Certification Outbound
-
+date:   2022-11-11 17:15:31 +0100
 layout: post
 post-image: #"https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
 description: Area Certification Outbound connects certification tools and process which collect certification data to create certification documents and to share them with the individual market authorities to get official approval. We bring Area Product Owners, Area Business Leads, and certification system Product Owners of other Areas together to collaborate in finding Area-wide solutions with clear business value. We create synergies between the processes. We work on business clarifications for business Epics and plan together with system Product Owners to produce value-creating solutions. We take care of prioritisation with all Areas and Management.
 ---
+Area Certification Outbound connects certification tools and process which collect certification data to create certification documents and to share them with the individual market authorities to get official approval. We bring Area Product Owners, Area Business Leads, and certification system Product Owners of other Areas together to collaborate in finding Area-wide solutions with clear business value. We create synergies between the processes. We work on business clarifications for business Epics and plan together with system Product Owners to produce value-creating solutions. We take care of prioritisation with all Areas and Management.
 
-Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories and if you don't know what GitHub Pages are you can visit on click [here](https://help.github.com/en/github/working-with-github-pages/about-github-pages){:target="blank"} or [here](https://pages.github.com/){:target="blank"}
+
 ###### Source : [`Jekyll Docs`](https://jekyllrb.com/docs/)
 
 > ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}

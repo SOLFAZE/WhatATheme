@@ -1,18 +1,12 @@
 ---
 title: Area Certification Inbound
+date:   2022-11-11 17:15:31 +0100
 layout: post
 post-image: #https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
 description: Area Certification Inbound stands for building and operating the end2end data highway between the Product Data Management System (PDM), essential for strategic project planning towards certification. Products of our area provide elemental building blocks for a working holistic solution across PICAO. We establish an E2E link as one step of our data stream starting at the planning phase, by introducing the PDM code-language to certification and building an easy-to-use translation tool. We stabilise the certification process throughout the whole value chain by attaching technical certification data on the PDM component level. This is our foundation for transparency and lower error rates. This ensures that certification data is integrated in all verification and release loops within the Research & Development (RD) life cycle. We enable the provision of the right data for the right certification variants at the right time without additional manual steps.
 ---
 
-# What is WhatATheme?
->You’ll find this post in your ***_posts*** directory. Go ahead and edit it and re-build the site to see your changes. >You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VfPa2c9kwhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio which includes
+Area Certification Inbound stands for building and operating the end2end data highway between the Product Data Management System (PDM), essential for strategic project planning towards certification. Products of our area provide elemental building blocks for a working holistic solution across PICAO. We establish an E2E link as one step of our data stream starting at the planning phase, by introducing the PDM code-language to certification and building an easy-to-use translation tool. We stabilise the certification process throughout the whole value chain by attaching technical certification data on the PDM component level. This is our foundation for transparency and lower error rates. This ensures that certification data is integrated in all verification and release loops within the Research & Development (RD) life cycle. We enable the provision of the right data for the right certification variants at the right time without additional manual steps.
 
 ### Home Page -
 * A Hero section - A section where you can outsource an image which will work as the background for the particular section; it also will include your name and a tagline which can be easily manipulated via the _config.yml file.
